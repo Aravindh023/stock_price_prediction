@@ -1,3 +1,5 @@
+This project is a beginner-friendly Python and Machine Learning application focused on building a linear regression model to analyze and predict future stock prices. We’ll learn how to use the Quandl package to read Stock Data, create our testing and training datasets and standardize our input data, fit the linear regression model and visualize the predicted results of our prices with MatPlotLib!
+
 # stock_price_prediction
 import quandl
 import pandas as pd
